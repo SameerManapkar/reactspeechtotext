@@ -1,6 +1,6 @@
 # reactspeechtotext
 React speech to text app
-# Dictaphone
+# speech to text
 
 It is a simple web app that converts speech to text using speech recognition. It allows users to use their microphone to capture audio and transcribe it into text.
 
